@@ -145,11 +145,11 @@ class MemoryCardGame extends FlameGame with TapCallbacks {
         first.celebrateMatch();
         second.celebrateMatch();
 
-        add(MatchParticleSpawner.createBurst(
+        add(ThreeDMatchParticleEffect(
           centerPosition: first.position.clone(),
           particleColor: first.data.themeColor,
         ));
-        add(MatchParticleSpawner.createBurst(
+        add(ThreeDMatchParticleEffect(
           centerPosition: second.position.clone(),
           particleColor: second.data.themeColor,
         ));
