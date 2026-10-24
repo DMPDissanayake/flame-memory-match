@@ -1,0 +1,6 @@
+{
+  "name": "Flutter Memory Match - Card Game",
+  "description": "Complete single-file Flutter Memory Matching Card Game (main.dart) featuring 3D Matrix4 card flip animations, 4x4 grid, stats, timer, scoring, and an interactive live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
