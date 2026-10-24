@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flame_memory_matcher.iml" filepath="$PROJECT_DIR$/flame_memory_matcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flame_memory_matcher_android.iml" filepath="$PROJECT_DIR$/android/flame_memory_matcher_android.iml" />
+    </modules>
+  </component>
+</project>

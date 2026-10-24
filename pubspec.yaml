@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   flame: ^1.18.0
   shared_preferences: ^2.2.3
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
 
 dev_dependencies:
   flutter_test:
@@ -19,3 +21,14 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+
+  image_path: "assets/icon/app_icon.png"
+
+  remove_alpha_ios: true
+
+  adaptive_icon_background: "#168BFA"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
